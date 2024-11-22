@@ -20,7 +20,7 @@ A Python application for tracking student performance, calculating class average
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Tooba-005/python-learning/tree/main/Project
 
 ### Navigate to Project directory
 -  cd student-performance-tracker
